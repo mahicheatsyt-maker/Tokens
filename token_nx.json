@@ -1,18 +1,10 @@
 {
   "category": "nx",
-  "total": 1,
-  "success": 1,
-  "failed": 0,
-  "timestamp": "2026-06-19T14:38:48.219886",
-  "results": [
+  "updated": "2026-06-19T15:05:51.808853",
+  "tokens": [
     {
       "uid": "3333333333",
-      "status": "success",
-      "data": {
-        "uid": "3333333333",
-        "token": "gen_3333333333_1781879928",
-        "status": "generated"
-      }
+      "token": "gen_3333333333_1781881551"
     }
   ]
 }
