@@ -3,15 +3,15 @@
   "total": 1,
   "success": 1,
   "failed": 0,
-  "timestamp": "2026-06-19T13:41:51.989719",
+  "timestamp": "2026-06-19T14:38:48.219886",
   "results": [
     {
       "uid": "3333333333",
       "status": "success",
       "data": {
         "uid": "3333333333",
-        "token": "fast_token_3333333333_1781876511",
-        "status": "fallback"
+        "token": "gen_3333333333_1781879928",
+        "status": "generated"
       }
     }
   ]
