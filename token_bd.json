@@ -3,7 +3,7 @@
   "total": 116,
   "success": 116,
   "failed": 0,
-  "timestamp": "2026-06-19T13:41:47.979917",
+  "timestamp": "2026-06-19T14:38:41.479449",
   "results": [
     {
       "uid": 4355383833,
@@ -12,8 +12,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE4NTc1NTY2NCwibmlja25hbWUiOiJZaVI0Y2R1M3pvemF0eVl1SlEwPSIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiJmYTRkMmFmYWU2NjdmODVkM2I5OTFkYmZjNTNiNjNmZCIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDM1NTM4MzgzMywicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjYzNjk1NDQsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwNTA4MX0.Wt_uVsOcjtMFV4zJJeL5GDLDLnnCOrB-k78qUQTqaYU",
-        "token_access": "6775d9aa87d015935623ea59ee4d96792518bd66dc4d89f07cc23a94907c37ba",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE4NTc1NTY2NCwibmlja25hbWUiOiJZaVI0Y2R1M3pvemF0eVl1SlEwPSIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiJmYTRkMmFmYWU2NjdmODVkM2I5OTFkYmZjNTNiNjNmZCIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDM1NTM4MzgzMywicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjYzNjk1NDQsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwODQ0NH0.2LXo8vawfl4HWN9r-3EqJDo1ct4ots8zESwMA41DMek",
+        "token_access": "6775d9aa87d015935623ea59ee4d9679adc685b98200883b9667e8a814e8be4e",
         "uid": "4355383833"
       }
     },
@@ -25,7 +25,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "96ca5a0ccf150e6f1ebdf567652dca35db1ac81893a89514338a989947bca78a",
+        "token_access": "96ca5a0ccf150e6f1ebdf567652dca358145f72b1d852af3a02369d93da3caf9",
         "uid": "4205257751"
       }
     },
@@ -37,7 +37,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "2c8b7eaf3e77f5861888181b92118a8dc28dd2da29269a35ab793be236a166b0",
+        "token_access": "2c8b7eaf3e77f5861888181b92118a8d31e987d7146733cce6f8c9c34db2eb83",
         "uid": "4205160259"
       }
     },
@@ -46,8 +46,8 @@
       "status": "success",
       "data": {
         "uid": 4205241155,
-        "token": "fast_token_4205241155_1781876287",
-        "status": "fallback"
+        "token": "gen_4205241155_1781879653",
+        "status": "generated"
       }
     },
     {
@@ -58,7 +58,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "c34691ca7b741476ac8e0eb0af59daa8a72e3784479ce8daa8c5fadb01a65efa",
+        "token_access": "c34691ca7b741476ac8e0eb0af59daa81ad00b1b4b7cf1c4c3be13a0c9f4f848",
         "uid": "4205159811"
       }
     },
@@ -67,8 +67,8 @@
       "status": "success",
       "data": {
         "uid": 4231187066,
-        "token": "fast_token_4231187066_1781876289",
-        "status": "fallback"
+        "token": "gen_4231187066_1781879664",
+        "status": "generated"
       }
     },
     {
@@ -76,8 +76,8 @@
       "status": "success",
       "data": {
         "uid": 4270936858,
-        "token": "fast_token_4270936858_1781876291",
-        "status": "fallback"
+        "token": "gen_4270936858_1781879669",
+        "status": "generated"
       }
     },
     {
@@ -88,7 +88,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "67f73cdc4abf33dd74741e9eab82cb1c2d6da756689cfbf3fb00496d2a173a0e",
+        "token_access": "67f73cdc4abf33dd74741e9eab82cb1cd1ec611b762a4374d08ecce4690a39a0",
         "uid": "4335049182"
       }
     },
@@ -100,7 +100,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "8f395defaf4b0fbaa2924ef6659103816211ab2dd5a0e50db319aeb2ff565a26",
+        "token_access": "8f395defaf4b0fbaa2924ef665910381774320fb570e7995d927f4503a3f5ffe",
         "uid": "4328635811"
       }
     },
@@ -112,7 +112,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "b2812039926af414e43bbbf1fb0791334a3e7ef18deeebd1c64377d3cd13472d",
+        "token_access": "b2812039926af414e43bbbf1fb0791337538d30241f603f3836450f3486900bb",
         "uid": "4337055347"
       }
     },
@@ -123,8 +123,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDY3MTY1NzYyMywibmlja25hbWUiOiIwK1doOWFmWjdkU0R0czZINnQvWXZiZUh0OE9MMjhGQUFndz0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiOTMwMWU4ZGJlNjg2OGQ3NDBmOGVjMjE5NGM5MjczMzEiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQ0OTIyMzYzNDksInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzcwNTE0MDQ2LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDUwOTh9.3Laa1tlusLou64WgFM_FmQY-PeAvXFyquN-gcUJTuXc",
-        "token_access": "04e2058ef00d8846dbdeabe45be94bee40c24f8e97e21a104f5e0e4ee5795222",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDY3MTY1NzYyMywibmlja25hbWUiOiIwK1doOWFmWjdkU0R0czZINnQvWXZiZUh0OE9MMjhGQUFndz0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiOTMwMWU4ZGJlNjg2OGQ3NDBmOGVjMjE5NGM5MjczMzEiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQ0OTIyMzYzNDksInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzcwNTE0MDQ2LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDg0Nzh9.Xge44GrdXNlU3RtyEw5P5aCYhZ-VyadY0ALrXys0nvw",
+        "token_access": "04e2058ef00d8846dbdeabe45be94beef21e98f79ac73f34c2cd8279ccd55227",
         "uid": "4492236349"
       }
     },
@@ -135,8 +135,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA1NzA4NDQ2OSwibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZVQSIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiIxOWRmYjk5ZGRmZmFkZjM3NDk3MjUzNmQ1MWU1ZDkyNiIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMyMDA5NzQ3MCwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUxMDQ1NzQsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwNTEwMH0.ZEE_nWwrfrjThdXbU3_Nzu7w0Im0LzvLgHIUvaxPJDo",
-        "token_access": "f4bf478554a408210a384d132306460ea64a1f3d2163730996ea321db9373a8b",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA1NzA4NDQ2OSwibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZVQSIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiIxOWRmYjk5ZGRmZmFkZjM3NDk3MjUzNmQ1MWU1ZDkyNiIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMyMDA5NzQ3MCwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUxMDQ1NzQsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwODQ4MH0.RC5p1LVNuJCGXvchdHQnbNefu5q19clywRkKwvevrzE",
+        "token_access": "f4bf478554a408210a384d132306460ec22e75232053c45008e00ecdf5fc80f7",
         "uid": "4320097470"
       }
     },
@@ -147,8 +147,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA2MzgxMDU0MSwibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZVUCIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiIxZTUxNmYxYzI4YThmM2I2NzQyOGVkOGNmOTJmM2M2ZiIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMzMDA4OTM0MCwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUxNzcwNzcsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwNTEwMn0.GsN0ZN_ZBR9mzbJkTyas2uBnAC-YFb6p_ZtqF3seUpY",
-        "token_access": "3a875348ba979b7ee62e75f09ea1ceedbc41e3fe04d7d9163e0df3a563cda108",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA2MzgxMDU0MSwibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZVUCIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiIxZTUxNmYxYzI4YThmM2I2NzQyOGVkOGNmOTJmM2M2ZiIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMzMDA4OTM0MCwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUxNzcwNzcsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwODQ4Mn0.8-H3GkoxYVAu3lzglonJ-bt2kmNYSMBK1X4ay3ik8sI",
+        "token_access": "3a875348ba979b7ee62e75f09ea1ceed4120f0c2a14f63177ada95a5bf8944d9",
         "uid": "4330089340"
       }
     },
@@ -159,8 +159,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA2NjQ5NjAyNCwibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZVTyIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiJjOGFlMTM4M2IwOGI3ZmNkYzNlMjE1ODcxZmNjOTdhOSIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMzMDY0MjI4NywicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUyMDE2OTEsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwNTEwNH0.sOTGP8A__g3Vhyh8narJNNQva_VeMcsbxLN7WENAmWc",
-        "token_access": "120eec80117ab6eb60a6560f5c28345d34cd42901fe0f37aa01a88a074bdb004",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA2NjQ5NjAyNCwibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZVTyIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiJjOGFlMTM4M2IwOGI3ZmNkYzNlMjE1ODcxZmNjOTdhOSIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMzMDY0MjI4NywicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUyMDE2OTEsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwODQ4NH0.wVVoBNyy4PbnLNwMAJAjtO0NLbvYGbsSwSAyQUYO3B8",
+        "token_access": "120eec80117ab6eb60a6560f5c28345d38b4b7536d54dfd2f6de514e205bb0ec",
         "uid": "4330642287"
       }
     },
@@ -171,8 +171,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA3MTUxMjY5Mywibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZZSiIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiI4ZGY5YTY5NGE4N2M5ZDYxZTg1YzFhYTczYjJhZWE5YSIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMzMTgxNjk1MSwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUyNjA1NjUsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwNTEwNn0.76xo4omqvbaU7h2LRlog6L5UpnAS22SmezpTWl1RUJA",
-        "token_access": "f2ce419cb952a85f7f263ea0de13f1c4abc615d6762f3011c723882246779f81",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA3MTUxMjY5Mywibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZZSiIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiI4ZGY5YTY5NGE4N2M5ZDYxZTg1YzFhYTczYjJhZWE5YSIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMzMTgxNjk1MSwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUyNjA1NjUsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwODQ4Nn0.S-hFsw_tgO1yPAqVFyS0QLsYxo-tej03Y7V4fy-JbHE",
+        "token_access": "f2ce419cb952a85f7f263ea0de13f1c4489dfbf956bd852fc1d7aecb963e74bf",
         "uid": "4331816951"
       }
     },
@@ -183,8 +183,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA3MjUxMTI0Nywibmlja25hbWUiOiJkamR3ZVcwUElpQXJmQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjAyZDgxMTAxMTIyNWUxNzljZjI1NzFhZGM3ZWY3YzZlIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzMyMDIzMTY0LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTI3MTgxOCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTA4fQ.FKpLR6NZ4H1H_tEwBhEIxZZkZb67NEMFwhlTVASnc-0",
-        "token_access": "2b9085c5faab52e360c0a20859a803ed9ecbaf47b84e1319db51394080940071",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA3MjUxMTI0Nywibmlja25hbWUiOiJkamR3ZVcwUElpQXJmQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjAyZDgxMTAxMTIyNWUxNzljZjI1NzFhZGM3ZWY3YzZlIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzMyMDIzMTY0LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTI3MTgxOCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NDg4fQ.Hq_MbS_231TvszU4-yF1E1tWGXm46kgmuo0jIowJhbM",
+        "token_access": "2b9085c5faab52e360c0a20859a803edfd692fe22d8a17e50df38c46d9ec3bd7",
         "uid": "4332023164"
       }
     },
@@ -196,7 +196,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "5439805b8a228237b3bd2c625cb3b4401077693a812e5712e550fb6db8b5d586",
+        "token_access": "5439805b8a228237b3bd2c625cb3b440a4edd90bc3de4953fb6663cb3ba64e15",
         "uid": "4333286167"
       }
     },
@@ -207,8 +207,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA4MTI0NTMyMCwibmlja25hbWUiOiJkamR3ZVcwQklpQXJmQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjFmMDBjM2NkOTVjNTBlNTk2NGIyNGZiNzIxNGE5NDRjIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzMzNzY1MTkwLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTM2OTQwNSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTEyfQ.IpQer04pn89s1fo2RAzuVTpykLB_9mBxKrTpndm_csU",
-        "token_access": "f5319318b31280b4d3441467f65ce22b25e9468f3f9e29770c2c3a1c4344be1e",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA4MTI0NTMyMCwibmlja25hbWUiOiJkamR3ZVcwQklpQXJmQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjFmMDBjM2NkOTVjNTBlNTk2NGIyNGZiNzIxNGE5NDRjIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzMzNzY1MTkwLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTM2OTQwNSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NDkzfQ.jUW8rWJX5rTbuGANqY6Y9LaokGQ0hPo2T8BKAjDkEDc",
+        "token_access": "f5319318b31280b4d3441467f65ce22bae97c22b1376c10fb3c14e834e6be157",
         "uid": "4333765190"
       }
     },
@@ -220,7 +220,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "c177de8cd1b3dd24af94ce81725414e9ad44194761fefccdb09e57667ccb546b",
+        "token_access": "c177de8cd1b3dd24af94ce81725414e9c11056eb870603635e65d366e48a8f91",
         "uid": "4334958227"
       }
     },
@@ -231,8 +231,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA4OTk4NjUzMiwibmlja25hbWUiOiJkamR3ZVcwSklpQXJmQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjU3ODU5MzMzMzUxMTI2ZDRiMTBkYTE4NTNjZjlkY2VmIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzM1Mzk0MDYyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTQ2ODE0NSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTE2fQ.r-ltEGORsmH2_HhZDGTcZMVyK5dW5nI8Z5-kXLkvggQ",
-        "token_access": "b61953e1a1fc5ea1a109b7416c5b60ec2cf1ead4beff56f4e9b6355bda365ac5",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA4OTk4NjUzMiwibmlja25hbWUiOiJkamR3ZVcwSklpQXJmQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjU3ODU5MzMzMzUxMTI2ZDRiMTBkYTE4NTNjZjlkY2VmIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzM1Mzk0MDYyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTQ2ODE0NSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NDk3fQ.QqYfH1807qy3ij-qqPJ509T4L7NqPGuGTX0A1wz2H9o",
+        "token_access": "b61953e1a1fc5ea1a109b7416c5b60ec35448229e319d2cfbc34c72733569237",
         "uid": "4335394062"
       }
     },
@@ -243,8 +243,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxMzgzMjU3NzcyOSwibmlja25hbWUiOiJkeWwyZGhSc1Z5NVRkUT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjM4ODUxMGVmNzg3NTA4MDg2NWQ1Y2FiMTE5MDJlMDU4IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MjgzMzkyNzE3LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2Mjc4OTY2NCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTE4fQ.jZ95MNkotmyjH_NqSCwGmaQ4Bh2XtAtb8EWAYKGURs0",
-        "token_access": "ce415146269d80f2d821b3b88bdd9cb80fe12258c72f6277463cfea7eeee0a5f",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxMzgzMjU3NzcyOSwibmlja25hbWUiOiJkeWwyZGhSc1Z5NVRkUT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjM4ODUxMGVmNzg3NTA4MDg2NWQ1Y2FiMTE5MDJlMDU4IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MjgzMzkyNzE3LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2Mjc4OTY2NCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NDk5fQ.WL4ohR1dtjSxlHDPjdhyvP0fhG3k24oKJdqK0BClrbo",
+        "token_access": "ce415146269d80f2d821b3b88bdd9cb8d837676db730d521550400cbee1ac4b8",
         "uid": "4283392717"
       }
     },
@@ -255,8 +255,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA1NzA4NDQ2OSwibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZVQSIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiIxOWRmYjk5ZGRmZmFkZjM3NDk3MjUzNmQ1MWU1ZDkyNiIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMyMDA5NzQ3MCwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUxMDQ1NzQsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwNTEyMH0.pC2Yi9qaDAGyfby35CnNaZmf4E9NNpGddNoOwZwIbY8",
-        "token_access": "f4bf478554a408210a384d132306460ee597a60e70a84af72fd232824d92a69a",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA1NzA4NDQ2OSwibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZVQSIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiIxOWRmYjk5ZGRmZmFkZjM3NDk3MjUzNmQ1MWU1ZDkyNiIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMyMDA5NzQ3MCwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUxMDQ1NzQsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwODUwMX0.IfWsc0Ry_sdiXBFgkG0sTmd844IxQVyXnjn1u938wwc",
+        "token_access": "f4bf478554a408210a384d132306460e014a6b94a6a05f016f19318169ce0b32",
         "uid": "4320097470"
       }
     },
@@ -267,8 +267,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA2MzgxMDU0MSwibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZVUCIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiIxZTUxNmYxYzI4YThmM2I2NzQyOGVkOGNmOTJmM2M2ZiIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMzMDA4OTM0MCwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUxNzcwNzcsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwNTEyMn0.lrNrFgdOVYUzQvySBBFSl0AVPMumSMl6Y7cNVbvnBdk",
-        "token_access": "3a875348ba979b7ee62e75f09ea1ceed892f0e7d0d95f32b85a0f5834c29e7b0",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA2MzgxMDU0MSwibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZVUCIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiIxZTUxNmYxYzI4YThmM2I2NzQyOGVkOGNmOTJmM2M2ZiIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMzMDA4OTM0MCwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUxNzcwNzcsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwODUwNH0.HahoMvg_I5aMKf67rDINKPDN-YJdZxNfKn3aRrSwbRo",
+        "token_access": "3a875348ba979b7ee62e75f09ea1ceede6f66a4a7eadec7583614153c11d31b3",
         "uid": "4330089340"
       }
     },
@@ -279,8 +279,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA2NjQ5NjAyNCwibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZVTyIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiJjOGFlMTM4M2IwOGI3ZmNkYzNlMjE1ODcxZmNjOTdhOSIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMzMDY0MjI4NywicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUyMDE2OTEsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwNTEyNH0.rpuLCEaics8Zgs0cnOjCJfGYpgYOMPUxNpF3z45nQ28",
-        "token_access": "120eec80117ab6eb60a6560f5c28345d8480b15029902e66e807bf6ee99229c2",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA2NjQ5NjAyNCwibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZVTyIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiJjOGFlMTM4M2IwOGI3ZmNkYzNlMjE1ODcxZmNjOTdhOSIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMzMDY0MjI4NywicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUyMDE2OTEsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwODUwNn0.ARqU6peLkHIa_RUrwZ3oJolTtLrKnSJqTSgXWb2_vXs",
+        "token_access": "120eec80117ab6eb60a6560f5c28345d5583564209406a56d660022cbf6088dc",
         "uid": "4330642287"
       }
     },
@@ -291,8 +291,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA3MTUxMjY5Mywibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZZSiIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiI4ZGY5YTY5NGE4N2M5ZDYxZTg1YzFhYTczYjJhZWE5YSIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMzMTgxNjk1MSwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUyNjA1NjUsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwNTEyNX0.TWcj0G09E_lFsURFZzAtaulfbGUuI01-hTw-S2s4VGs",
-        "token_access": "f2ce419cb952a85f7f263ea0de13f1c4c1d8da4dcb92ba6ea9e61f1d0acdc9fa",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA3MTUxMjY5Mywibmlja25hbWUiOiJZQ3QyMnEyeUx5b3BmWWJHNUZZSiIsIm5vdGlfcmVnaW9uIjoiQkQiLCJsb2NrX3JlZ2lvbiI6IkJEIiwiZXh0ZXJuYWxfaWQiOiI4ZGY5YTY5NGE4N2M5ZDYxZTg1YzFhYTczYjJhZWE5YSIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjEsImNsaWVudF92ZXJzaW9uIjoiMS4xMTEuMiIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJVUyIsImV4dGVybmFsX3VpZCI6NDMzMTgxNjk1MSwicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjQsImxvY2tfcmVnaW9uX3RpbWUiOjE3NjUyNjA1NjUsImNsaWVudF90eXBlIjoyLCJzaWduYXR1cmVfbWQ1IjoiIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiM3JkX3BhcnR5IiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1MyIsImV4cCI6MTc4MTkwODUwOH0.jgVsF1mBgVfVLS7LJUgHEWYmfsM33N0n9yJauQpxy1w",
+        "token_access": "f2ce419cb952a85f7f263ea0de13f1c415e5ab5e43c1ed5a63fe9eeef5e4b3e5",
         "uid": "4331816951"
       }
     },
@@ -303,8 +303,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA3MjUxMTI0Nywibmlja25hbWUiOiJkamR3ZVcwUElpQXJmQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjAyZDgxMTAxMTIyNWUxNzljZjI1NzFhZGM3ZWY3YzZlIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzMyMDIzMTY0LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTI3MTgxOCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTI3fQ.-y5ugTxarWlpK0i4rs-1Gvfcux09_4myCw5gZp09KDo",
-        "token_access": "2b9085c5faab52e360c0a20859a803ed7c6669f0373b062904929207dbef9a78",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA3MjUxMTI0Nywibmlja25hbWUiOiJkamR3ZVcwUElpQXJmQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjAyZDgxMTAxMTIyNWUxNzljZjI1NzFhZGM3ZWY3YzZlIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzMyMDIzMTY0LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTI3MTgxOCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTEwfQ.2n6DgpQjqppgkZTfVptH324prr_Qly3PF8T0rUppSMw",
+        "token_access": "2b9085c5faab52e360c0a20859a803ed4ecce82a92b9d4c1d668e512c2bd99ca",
         "uid": "4332023164"
       }
     },
@@ -316,7 +316,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "5439805b8a228237b3bd2c625cb3b440779b7e920102a9b539131d5313d2c641",
+        "token_access": "5439805b8a228237b3bd2c625cb3b4406bc417350a37575d2df2d841b291df04",
         "uid": "4333286167"
       }
     },
@@ -327,8 +327,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA4MTI0NTMyMCwibmlja25hbWUiOiJkamR3ZVcwQklpQXJmQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjFmMDBjM2NkOTVjNTBlNTk2NGIyNGZiNzIxNGE5NDRjIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzMzNzY1MTkwLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTM2OTQwNSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTMxfQ.z2yAKk6QtcamQ_Rf2hnr95lqtcGJwPDmLFXxatrA69g",
-        "token_access": "f5319318b31280b4d3441467f65ce22b5db379aa2f6c13253341fb21a4bfb802",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA4MTI0NTMyMCwibmlja25hbWUiOiJkamR3ZVcwQklpQXJmQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjFmMDBjM2NkOTVjNTBlNTk2NGIyNGZiNzIxNGE5NDRjIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzMzNzY1MTkwLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTM2OTQwNSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTE0fQ.i-y1vMUViR-hvy6XBFRM_G0l_nBgxXjjt-me-LEfRw0",
+        "token_access": "f5319318b31280b4d3441467f65ce22b0f752635e8315e6d14e4d0dfda863bf4",
         "uid": "4333765190"
       }
     },
@@ -340,7 +340,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "c177de8cd1b3dd24af94ce81725414e96ec69c98a450dbdbddc2099b7718e95d",
+        "token_access": "c177de8cd1b3dd24af94ce81725414e978a45d4c424a5d1416c31608417c60d0",
         "uid": "4334958227"
       }
     },
@@ -351,8 +351,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA4OTk4NjUzMiwibmlja25hbWUiOiJkamR3ZVcwSklpQXJmQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjU3ODU5MzMzMzUxMTI2ZDRiMTBkYTE4NTNjZjlkY2VmIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzM1Mzk0MDYyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTQ2ODE0NSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTM1fQ.ezbH1qZHvom2Qk_6n7B9PrJyWb6PfjKjltg5hwMZSFY",
-        "token_access": "b61953e1a1fc5ea1a109b7416c5b60ecd1994e97fa70e892a1bfc03edab3a873",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDA4OTk4NjUzMiwibmlja25hbWUiOiJkamR3ZVcwSklpQXJmQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjU3ODU5MzMzMzUxMTI2ZDRiMTBkYTE4NTNjZjlkY2VmIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzM1Mzk0MDYyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTQ2ODE0NSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTE4fQ.o5lGSO-g9HgeGR1iX3QKGyPBWJfuBs0XJXsEJHPlzOo",
+        "token_access": "b61953e1a1fc5ea1a109b7416c5b60ecae38ff35f85c5683f58ec915725d5215",
         "uid": "4335394062"
       }
     },
@@ -364,7 +364,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "64284c97e2b6ee32d3bfd6aa8a5581a2b9be6a7fe642adcb321e748d0b8931c9",
+        "token_access": "64284c97e2b6ee32d3bfd6aa8a5581a22cc4a717a91fc609e9649f6f329fb195",
         "uid": "4337840537"
       }
     },
@@ -376,7 +376,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "8bb093be33dc70096585d1f28b221101eb91d26e964f23214c0ae8e215407152",
+        "token_access": "8bb093be33dc70096585d1f28b2211015522b2f0f6d83001c73fe383609c979c",
         "uid": "4337840535"
       }
     },
@@ -388,7 +388,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "6b1e5c34c4d4546f2f68aaa903c080fd7384191a991bc24fb66a8e1ef0714113",
+        "token_access": "6b1e5c34c4d4546f2f68aaa903c080fd5eeafa4c27c502a2f0700e350778c5e4",
         "uid": "4337840459"
       }
     },
@@ -400,7 +400,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "80ae0709a7f61dda1448d02df9efc12fbef4c91932cf63f09f39a054e658352c",
+        "token_access": "80ae0709a7f61dda1448d02df9efc12f2689af2ff73384a73e3e09b7b37b3b4a",
         "uid": "4274666113"
       }
     },
@@ -412,7 +412,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "779e2c2f3598f67a446ee6aac3c9ea2909ce6898f11b842a3d4501791d06f7ba",
+        "token_access": "779e2c2f3598f67a446ee6aac3c9ea29d6f01d39af6d0cc51599f206ce840c31",
         "uid": "4295028189"
       }
     },
@@ -424,7 +424,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "56b9ff6d39810cad267591e66a2b4b3587746c649146063e3ede2d147b81989b",
+        "token_access": "56b9ff6d39810cad267591e66a2b4b35f54844bfcb1ad986f7790cb9cb77db65",
         "uid": "4295030463"
       }
     },
@@ -435,8 +435,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDczMTIzMTcwOSwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVmRRIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjIyMDA4MjFhY2U3MGRjODEyOWI5NDRjNGFlNTc3OGQ1IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEzNzg1MjAwLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTA0MjIxNywiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTQ5fQ.T80PRGXceo8BeR34zHC2avxOewsiSSl3b-UXIrsRbF0",
-        "token_access": "5c8dc9a50492b634660c559eb67f6bed8609d0fabf08033d711e3d18ce104d12",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDczMTIzMTcwOSwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVmRRIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjIyMDA4MjFhY2U3MGRjODEyOWI5NDRjNGFlNTc3OGQ1IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEzNzg1MjAwLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTA0MjIxNywiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTMyfQ.dH0ZZINxxMetBGEN3dVhi5rI5rDn0joINZEx2DJEtc0",
+        "token_access": "5c8dc9a50492b634660c559eb67f6bede3a53b2dc01fd8bd3ea03f138e04ab44",
         "uid": "4513785200"
       }
     },
@@ -447,8 +447,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDczMTIzNTI4OCwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVmRmIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjA5NjE2ODMyOTNjYTYyODEyNmViOWE5YTAyMWVjZTcwIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEzNzg1MjU4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTA0MjI2MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTUxfQ.Uz7UKnzRlLHEEnJv64styr2Mm1CXCEqS6yU2t6cYRsY",
-        "token_access": "febf443a0ae3518d2c49e1e21d82f59a3611884bf27dd8ea1426610b8d58b587",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDczMTIzNTI4OCwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVmRmIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjA5NjE2ODMyOTNjYTYyODEyNmViOWE5YTAyMWVjZTcwIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEzNzg1MjU4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTA0MjI2MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTM0fQ.zWOYFiqZKMR9Hzy9kA5zgzw_2SfpG9HFIrOLjfPYrRA",
+        "token_access": "febf443a0ae3518d2c49e1e21d82f59a6d0a5510c8c9fe64489bdfde13b6c699",
         "uid": "4513785258"
       }
     },
@@ -459,8 +459,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc0MjkyNTE0MCwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkZTIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjkwZjI2NjAyMmQ1ZmQxMDNjZDUzMjEzNmQ0ZmU1YWRhIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE3ODI1MTk3LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTEyNDU0NiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTUzfQ.hXofh6iwkJz-Bwh5gZXIuRvKylv3tZVyeNejm5xdGjg",
-        "token_access": "d581e5b6409c57bdd768b94b3feff4439ad1935c188e0937a89d0a91bf9330df",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc0MjkyNTE0MCwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkZTIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjkwZjI2NjAyMmQ1ZmQxMDNjZDUzMjEzNmQ0ZmU1YWRhIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE3ODI1MTk3LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTEyNDU0NiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTM2fQ.-jNvyeZvrwJMEFjLV5qsJxfb0k6ZPWydRhkFvv9K5w8",
+        "token_access": "d581e5b6409c57bdd768b94b3feff443feb290341fb94fd826b377c2a059229d",
         "uid": "4517825197"
       }
     },
@@ -471,8 +471,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc0MjkyNTQ5NCwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkZVIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImM2ZWVmNzZmYjhjMTM4MTFjNzczMWU4M2U1ZTVkYWM2IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE3ODI1MTU1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTEyNDU0OCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTU1fQ.SKOatuGiKvyy5tolVmwn0xYbap_17DguQa2Ffs3nIcA",
-        "token_access": "8aaa8637a6e0794f81219b8522378ecf1534909b161399aa5608096a1399c77a",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc0MjkyNTQ5NCwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkZVIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImM2ZWVmNzZmYjhjMTM4MTFjNzczMWU4M2U1ZTVkYWM2IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE3ODI1MTU1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTEyNDU0OCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTM4fQ.hWUSbqHuoKdm4xMRWTnRd2GoxApgFEaHBBd0HE8iFFk",
+        "token_access": "8aaa8637a6e0794f81219b8522378ecffbbeba4917ede2951d0cfb9731b43009",
         "uid": "4517825155"
       }
     },
@@ -483,8 +483,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc0MjkyODg5Niwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkZXIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImU0MjI1MjIwMDRiNzVjMzM1YzNhOGI1NGJiY2I2YWFhIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE3ODIyMjA1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTEyNDU2NiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTYxfQ.O0O1aPOou5dRctMuFlFtOgri_Y34ButjR53eyeVNQAo",
-        "token_access": "f145bff5b724d5e389cb4159c041e7ca7117ed730c2daa1731c2c640b91e8e15",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc0MjkyODg5Niwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkZXIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImU0MjI1MjIwMDRiNzVjMzM1YzNhOGI1NGJiY2I2YWFhIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE3ODIyMjA1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTEyNDU2NiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTQwfQ.FwqhCkGR97EpWkor337Uk3CZctyZ3IwjnZBOceGxq1g",
+        "token_access": "f145bff5b724d5e389cb4159c041e7ca6c9d442e96841dc1ac40a4e5daa46d1f",
         "uid": "4517822205"
       }
     },
@@ -495,8 +495,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc0MjkyNzQ5MSwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkZYIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImRjNTk5NjRiMTBmYjg3NTJiN2FhYjg5NzQxNTg2NjA5IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE3ODIyNTU4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTEyNDU1OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTYyfQ.THhyTepNc4II83McPGQdHUGhU-Mtt7hGT9tpvjj3tS4",
-        "token_access": "ef09b95cc7d67006280d64d82800cdffb3cff3dd6e65a601aba0da65de0b3a6d",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc0MjkyNzQ5MSwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkZYIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImRjNTk5NjRiMTBmYjg3NTJiN2FhYjg5NzQxNTg2NjA5IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE3ODIyNTU4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTEyNDU1OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTQyfQ.gY3TqQN2lDJdqCQ_ws53RDnFkuCQ2-ZUHx5hpPAgIOI",
+        "token_access": "ef09b95cc7d67006280d64d82800cdff89a7be04e7ce9c9a90715604f2b80c6a",
         "uid": "4517822558"
       }
     },
@@ -507,8 +507,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzgwMzU0MSwibmlja25hbWUiOiIwK1doOWFkOWd0ZnYyK0hDTUlXTnR0RFNvWUhod1lPNGlBPT0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiYTNhNGNjNzQ2ODJjZGM1MzhiMWE5YTIwNTBlMGFiYmUiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQ1MTI2Nzg5MTYsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzcxMDA2MDY4LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDUxNjV9.NIBKeE5is9qzmvAjAekL0rQkJnXHatQl_fSgMUrs-ZM",
-        "token_access": "eacc35e93bacdb84e8814fa60dfa343c7aada6f6d89b80dbb0dddb6d328532d1",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzgwMzU0MSwibmlja25hbWUiOiIwK1doOWFkOWd0ZnYyK0hDTUlXTnR0RFNvWUhod1lPNGlBPT0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiYTNhNGNjNzQ2ODJjZGM1MzhiMWE5YTIwNTBlMGFiYmUiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQ1MTI2Nzg5MTYsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzcxMDA2MDY4LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDg1NDR9.tpWnePxAE1ircazOfo6DWROuZ7Hag1ZhTHw6sU6m9Qk",
+        "token_access": "eacc35e93bacdb84e8814fa60dfa343c6d29937e198d92f75f6b1a809e9696c8",
         "uid": "4512678916"
       }
     },
@@ -519,8 +519,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzgwMjIyOSwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVmRTIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImM0OTQxNzg1ODE2Zjg2MDY5ZTk1MmEzMmM1N2MzNDJlIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNjc4OTI0LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwNjA3MSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTY2fQ.TZvFFbd7DtrPkc2n_gkRG1EsKeSHou3T5-sTb2QukFM",
-        "token_access": "f1c48480cb5f47e87350851cad36616d94e7b1f3e21c04d9ad0d0cd5674abf93",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzgwMjIyOSwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVmRTIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImM0OTQxNzg1ODE2Zjg2MDY5ZTk1MmEzMmM1N2MzNDJlIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNjc4OTI0LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwNjA3MSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTQ2fQ.HVj05pIoYlaXz1g5PrdJ33EjdOfr6A3hDXpU28ue6_4",
+        "token_access": "f1c48480cb5f47e87350851cad36616d4fd216b8ab39e1cad4a7e5b626891934",
         "uid": "4512678924"
       }
     },
@@ -531,8 +531,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzgwMjIwOCwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVmRWIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjRiNTM1ZGUzYzFjMDc5ZWIyNjBjYWY1ZDcyNmY0MjgzIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNjc4OTUyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwNjA2OCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTY4fQ.B4s9Mm-9neNdkMdGdnY48GWSHGRxOWdLDK5Rj00uFec",
-        "token_access": "94e5fc8be1c0210162d81c5fe2d93b6f0ba6246eae9813b8f370e37a7d647f5c",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzgwMjIwOCwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVmRWIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjRiNTM1ZGUzYzFjMDc5ZWIyNjBjYWY1ZDcyNmY0MjgzIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNjc4OTUyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwNjA2OCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTQ4fQ.zNkBCF8U7kNbBAMmrA3uJ2xZf2OxUR0Q2RcKJMOW8ZY",
+        "token_access": "94e5fc8be1c0210162d81c5fe2d93b6f9fb0332d73644b1e566260119f984887",
         "uid": "4512678952"
       }
     },
@@ -543,8 +543,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc5NTA0NzA3MSwibmlja25hbWUiOiJka2g0V1ZKZEVVNVNEUT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjY3M2RhYTJiMDA4NDcxZmI5OWY0OWYxMTlkNDc0Y2YyIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTM2Njk2NTA5LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTUxMDE0NywiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTcwfQ._1zvLVkScdUx5aEvDd_YW6bIBOrsUjHopEl4ILBfPOA",
-        "token_access": "6175a382e87374331f8fd670bdc8041f1002b39914c6a0374129f1250110c724",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc5NTA0NzA3MSwibmlja25hbWUiOiJka2g0V1ZKZEVVNVNEUT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjY3M2RhYTJiMDA4NDcxZmI5OWY0OWYxMTlkNDc0Y2YyIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTM2Njk2NTA5LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTUxMDE0NywiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTUwfQ.cskHUVPlkqqddrzE-1WOT7O30JqLmiQhZBE-mz1ziu0",
+        "token_access": "6175a382e87374331f8fd670bdc8041f4d34b31fd417a542ec54e16d5a06926e",
         "uid": "4536696509"
       }
     },
@@ -555,8 +555,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyMzA1MDIwOSwibmlja25hbWUiOiJkZ2xhU2tBU0xnSUpYUlpYIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImM1N2MzZmFhZjUyMDExNWUxZDM5NWM1OGMwOTAyOTkyIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTExMDA3ODkyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDk3NTgzMCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTcyfQ.oVn4hk-OHRvfAkbIuqPZNWIXPHc7BfZgu6SQG__ZGRU",
-        "token_access": "066104fb9ffa15595e54c2fedf200babed423e323379c21e59d6dae11386416a",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyMzA1MDIwOSwibmlja25hbWUiOiJkZ2xhU2tBU0xnSUpYUlpYIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImM1N2MzZmFhZjUyMDExNWUxZDM5NWM1OGMwOTAyOTkyIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTExMDA3ODkyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDk3NTgzMCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTUyfQ.el4FHay28uFGh6L05zYKnqQejeixRXmfiHLZ524fclU",
+        "token_access": "066104fb9ffa15595e54c2fedf200babf7eb9f2fc7dec49c929c93395ce3d44b",
         "uid": "4511007892"
       }
     },
@@ -567,8 +567,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyMzA3MzAwNywibmlja25hbWUiOiJkZ2xhU2tBU0xnSUpYUlpVIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjUwNzNmNDcyOTJlMGU3ZjFkNGI3N2Y5YmU4ZDI2Y2I1IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTExMDE2MTQxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDk3NTk4NCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTc0fQ.TqHwcx2TLC1E4HH9fcadlX7UFfpVuAJoeRTVejiky-w",
-        "token_access": "c5a92d47d9be716ed717da2d47f6c26f388ca19e432476d4567337039ad0a65a",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyMzA3MzAwNywibmlja25hbWUiOiJkZ2xhU2tBU0xnSUpYUlpVIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjUwNzNmNDcyOTJlMGU3ZjFkNGI3N2Y5YmU4ZDI2Y2I1IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTExMDE2MTQxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDk3NTk4NCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTU0fQ.LnuGD6HzpB8hRPtR037HjZXIKVrhATth8AuWqYGNbkg",
+        "token_access": "c5a92d47d9be716ed717da2d47f6c26f49b9a2d66402af515c37f2e3eecc2683",
         "uid": "4511016141"
       }
     },
@@ -579,8 +579,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyMjkwMzcyMCwibmlja25hbWUiOiJkZ2xhU2tBU0xnSUpYUlk9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImQ3ZDFlMWVlMTVkMzY1ZmY1YmZhMTI4MmE3NmE2MDFmIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEwOTQwMzYwLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDk3NDg1MywiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTc2fQ.QPj0hkV00I_Hc6TVA_nVwWojeTl-u1tVj_54ihhzkXE",
-        "token_access": "da7f827599c5f47190b52cb1de3e1665144e0c6fb351ace966a8dfbe7cdf5a49",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyMjkwMzcyMCwibmlja25hbWUiOiJkZ2xhU2tBU0xnSUpYUlk9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImQ3ZDFlMWVlMTVkMzY1ZmY1YmZhMTI4MmE3NmE2MDFmIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEwOTQwMzYwLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDk3NDg1MywiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTU2fQ.n9YsP9qeZkhAzp6qotxa1BypOQ-vXmb-Z0qPMlsNSA4",
+        "token_access": "da7f827599c5f47190b52cb1de3e1665d7ad3b8147fd64f10f70d63bdc66e4f4",
         "uid": "4510940360"
       }
     },
@@ -591,8 +591,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyMzA4OTQyOSwibmlja25hbWUiOiJkZ2xhU2tBU0xnSUpYUlpWIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImNmZjU1YWFlOTUyNjk3MTg3ZDk3YTIwNzc1ODE0MGIzIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTExMDIxOTY4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDk3NjA5MywiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTc4fQ.zkn6oWjlOb1Uf17H0quCxfD_vVJYinSGiZnbM9IUzIc",
-        "token_access": "e732e6181ebb7a0b4451f3aa55798334ad914bfa9f4706df6a651243f9f3f6e1",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyMzA4OTQyOSwibmlja25hbWUiOiJkZ2xhU2tBU0xnSUpYUlpWIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImNmZjU1YWFlOTUyNjk3MTg3ZDk3YTIwNzc1ODE0MGIzIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTExMDIxOTY4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDk3NjA5MywiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTU4fQ.Mi19ex429RBfffYFVbeCFH4rjhn10OsGnFuHl6IFCCo",
+        "token_access": "e732e6181ebb7a0b4451f3aa5579833488de786eb1a9c1cc1f6805d8f5465032",
         "uid": "4511021968"
       }
     },
@@ -603,8 +603,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc5MTc3MjE1Nywibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkpRIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjA3MDU5MjAxNjI1ZGY5N2NhNzgzNzlhODdlYjljNGM5IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTM1NjQ1OTUyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTQ4NzE0MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTgwfQ.SUUK0UiHddohGQaYGD0zXLc8gFBx052-TA5yQHLcUzQ",
-        "token_access": "56f9d15fdef621494098a2fccc6abd78a79bc8cab84609946df94c4252ba099b",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc5MTc3MjE1Nywibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkpRIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjA3MDU5MjAxNjI1ZGY5N2NhNzgzNzlhODdlYjljNGM5IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTM1NjQ1OTUyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTQ4NzE0MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTYwfQ.pE9bYPCZWCIbVnCTAhUaPhugV37aj9ZjVoVs40OAGBI",
+        "token_access": "56f9d15fdef621494098a2fccc6abd787732f0d620fee2177730af2449fbd249",
         "uid": "4535645952"
       }
     },
@@ -615,8 +615,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc5MTc3MDkxNywibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkpYIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjQ1ZDkzNDMzZTljYjY2Mzc1MWRlNzMzY2U2MzU2ZDlhIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTM1NjQ1OTY1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTQ4NzE0MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTgyfQ.iOUCaqbiYicdR0nDCNxnVBNyo3TEJgx2lZRzFYj5FEQ",
-        "token_access": "fc9bf37b21c75521717db837cc62af7216170ac1d51819d028a30bb33ce931bc",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc5MTc3MDkxNywibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkpYIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjQ1ZDkzNDMzZTljYjY2Mzc1MWRlNzMzY2U2MzU2ZDlhIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTM1NjQ1OTY1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTQ4NzE0MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTYyfQ.t02dTU4PC2r76uGZZGwTYtOKdn425kqZ2dEfWvkNMzU",
+        "token_access": "fc9bf37b21c75521717db837cc62af72bb9a246aa16cfcbe0b330bdc75a1304b",
         "uid": "4535645965"
       }
     },
@@ -627,8 +627,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc5MTc3MDkyMywibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkpVIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImRmYjc5MjE4ODNhMzA5Y2QzMGY2OGQwM2NkZTRjOGE3IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTM1NjQ1OTUwLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTQ4NzE0MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTg0fQ.y8jRDfoyDBbccQj9qZxYXtgKL2jyvL7L54fzSvb75xA",
-        "token_access": "c4ea38f4904ffc3b85f168671ed9e20a8bef218c9ccc3a250dbaaeac2e014ca9",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc5MTc3MDkyMywibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkpVIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImRmYjc5MjE4ODNhMzA5Y2QzMGY2OGQwM2NkZTRjOGE3IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTM1NjQ1OTUwLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTQ4NzE0MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTY0fQ.3GZZa9WQXIprk3PAot6e6pZxNoKfF64RFQQngN1qa-E",
+        "token_access": "c4ea38f4904ffc3b85f168671ed9e20ad994b5f18701ae651c767a5131e98f07",
         "uid": "4535645950"
       }
     },
@@ -639,8 +639,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc5MTc3MDkyMSwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkpTIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjczYzIzNWNlNmVmZGM0NDY5MDRmNTI1YzNlNzc3ZDExIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTM1NjQ1OTM2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTQ4NzE0MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTg2fQ.WH45CtbDf7aGDYLaM6RK4dgrpFil6c8iz2BugtcorGY",
-        "token_access": "03cecb5b260485c1e9bc9167038be4c746fa79cbad2e0408c329abdce91b9413",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc5MTc3MDkyMSwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkpTIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjczYzIzNWNlNmVmZGM0NDY5MDRmNTI1YzNlNzc3ZDExIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTM1NjQ1OTM2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTQ4NzE0MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTY2fQ.mhOixkXDtUGJYV6WlJBjgo9dYEaQ832hThRRdvKXxL4",
+        "token_access": "03cecb5b260485c1e9bc9167038be4c76393e2d486dd95f51c7eec52c83e416e",
         "uid": "4535645936"
       }
     },
@@ -651,8 +651,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc5ODE2MjA0Miwibmlja25hbWUiOiJka2g0V1ZKZEVVNVNBQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImFlMzU3NmQ0MGM5NzkyNzUyMTA1NzA1ZjU0YTdhZTdmIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTM4MjQ0ODk2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTUzNjgzMiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTg4fQ.GVYHltQQKqXL0_OuhT8_i__ODzwry-L-S3wQ9fojy6c",
-        "token_access": "90af35c34cc7f422d44e7c257869cc33c8b78606bae10d62861681d44964a75a",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDc5ODE2MjA0Miwibmlja25hbWUiOiJka2g0V1ZKZEVVNVNBQT09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImFlMzU3NmQ0MGM5NzkyNzUyMTA1NzA1ZjU0YTdhZTdmIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTM4MjQ0ODk2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTUzNjgzMiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTY4fQ.ZN31a0wzYCskCBJLZUAUM6whFbkX5tFS_VLZr1SR4Bw",
+        "token_access": "90af35c34cc7f422d44e7c257869cc335cd219ea081f655c917e756efd39dae7",
         "uid": "4538244896"
       }
     },
@@ -663,8 +663,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzgwMjIwNiwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVmRVIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjUyNmFhZWExMTdjNTAzOWEzM2Y5YzkzMjQ5YjU2NTU3IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNjc4OTY1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwNjA2OCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTkwfQ.baH32xrWVoqJegovrrYToZ1IIyD6X1Bp1EpJGO8EgVE",
-        "token_access": "c772810c4a5f00d3d522d4a56a68ed9a3d0649dbd550282748b1acafd1be035b",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzgwMjIwNiwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVmRVIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjUyNmFhZWExMTdjNTAzOWEzM2Y5YzkzMjQ5YjU2NTU3IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNjc4OTY1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwNjA2OCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTcwfQ.HU2rHKM0CEXxvzZTI8Kcm_Md4CQItIWpRRY_MX32e8s",
+        "token_access": "c772810c4a5f00d3d522d4a56a68ed9ab7a5f8e2e7d4bdfa8958a995d86de760",
         "uid": "4512678965"
       }
     },
@@ -676,7 +676,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "4255d0b52011b799bb0a9ce9373868284112afd989a644c683819d6a990679a2",
+        "token_access": "4255d0b52011b799bb0a9ce93738682809071a7ae1cabdbeab5d3e2b998b8ca2",
         "uid": "4536131138"
       }
     },
@@ -687,8 +687,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzYwMDUxOCwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVlpRIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjIxNjI0NWQ3YmZjYmVlZGRmMjhmZDlmNDlhYTU3NThkIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNjExNzg3LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwNDE0NiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTk0fQ.t1-LLEfP-9txO5R9qrU9wubL-e0hnpoe71dUH5Grp90",
-        "token_access": "6b8488a79e29842e3f9175580eaf7c2b2219b004b7fd3b1efbc806897830d708",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzYwMDUxOCwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVlpRIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjIxNjI0NWQ3YmZjYmVlZGRmMjhmZDlmNDlhYTU3NThkIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNjExNzg3LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwNDE0NiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTc0fQ.Ei616PywTyDUyk1-lNxw-KpggpvttMY7cslosQPEXMs",
+        "token_access": "6b8488a79e29842e3f9175580eaf7c2b9785a374c6f84a029bc682fb7097d74b",
         "uid": "4512611787"
       }
     },
@@ -699,8 +699,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzU0ODE3Niwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVlpUIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjRkODFlYjBmNjcxN2MxYzYxZjA2NzNkNjcxZDYwNTE5IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNTkxOTQxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwMzY3NCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTk2fQ.6hnWdIRVemYX5L_uKtpkmKSjvkeyEFfb_HklItXH-EU",
-        "token_access": "6d82bbe94dca4a6e35c99bcb3dded7c64965dba072e4ede9b2ca042f14b3dd73",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzU0ODE3Niwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVlpUIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjRkODFlYjBmNjcxN2MxYzYxZjA2NzNkNjcxZDYwNTE5IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNTkxOTQxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwMzY3NCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTc2fQ.YKhqC711vLA17OfWc8QY2UPX-hVbGpIVe8sZfLUGIqc",
+        "token_access": "6d82bbe94dca4a6e35c99bcb3dded7c612cad17d6bec91dd6f34c45ff2f67643",
         "uid": "4512591941"
       }
     },
@@ -711,8 +711,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzUyNzg3Miwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVlpTIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImIzY2VlMGE1OTVlZDBiMTNkMTJiZGIwMWZlZWY4ZTM3IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNTgyMzA1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwMzQ5OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTk3fQ.j86vbATuRRN6Nw7lnIJ54rQytFMbaQG2OeccMJSrAqE",
-        "token_access": "6d701e4d23cf3b71d78deabf56d7b43370f6db8ce9c0fefe37cf6f15566af9d4",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzUyNzg3Miwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVlpTIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImIzY2VlMGE1OTVlZDBiMTNkMTJiZGIwMWZlZWY4ZTM3IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNTgyMzA1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwMzQ5OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTc4fQ.rtot1A_Hm2FE43Mw_NdFUbiZeNcFtR5Xm-y7Ib0_LYw",
+        "token_access": "6d701e4d23cf3b71d78deabf56d7b433e9f95bb589b8e6dc253fed571f844fb7",
         "uid": "4512582305"
       }
     },
@@ -723,8 +723,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzYwMjIzNSwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVlpSIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6Ijk0ZDBlNDg2NDRiNmVkOWZhNzQzOGYxODRjYmQ2NDc0IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNjExODAxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwNDE2NiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MTk5fQ.veveW3Tk_Iq9ouyE1zPNk-u0f9IV-TPiz8r8Z21ArH4",
-        "token_access": "3fcabf9a2c23cd6531f1abd56d846d56b2ba2ccb8dbc6f3ac6b0133f940d1752",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDcyNzYwMjIzNSwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVlpSIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6Ijk0ZDBlNDg2NDRiNmVkOWZhNzQzOGYxODRjYmQ2NDc0IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTEyNjExODAxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTAwNDE2NiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTc5fQ.DeQLUmg6AhRCI2Ucv0lbB3sEA4CLlpYdll_hMSUTagg",
+        "token_access": "3fcabf9a2c23cd6531f1abd56d846d568be739dee791d7afec11630dcfdea341",
         "uid": "4512611801"
       }
     },
@@ -735,8 +735,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDczNjM0MzA1Niwibmlja25hbWUiOiJkZ3BaU2tBVkRnSUpYVkJmIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjEyZjMxOTk0OTE2YjgyYTk2YzFjZWYwNjc4YjU4NGNlIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE1MzM0MDkyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTA3MzY1MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjAxfQ.m6xwpglFupjfQEzEIreLD0bR2h7NUHchNAYg8x5rCJs",
-        "token_access": "c63685b85793d5010364a835529a13c48b48394adecd9e12ff703c328a36aa58",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDczNjM0MzA1Niwibmlja25hbWUiOiJkZ3BaU2tBVkRnSUpYVkJmIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjEyZjMxOTk0OTE2YjgyYTk2YzFjZWYwNjc4YjU4NGNlIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE1MzM0MDkyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTA3MzY1MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTgxfQ.sOZ6XPlEgcGl807B9X_z4Om0aL-o3AWg8Mk6hLulQRE",
+        "token_access": "c63685b85793d5010364a835529a13c47f1648c14f3b91a32ee0dd4049e912ac",
         "uid": "4515334092"
       }
     },
@@ -747,8 +747,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDczNjM0MzA1Miwibmlja25hbWUiOiJkZ3BaU2tBVkRnSUpYVkJlIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImFjN2E5OWQ5NTZmNDM4MDY5ZDViZDdhNjgyNDhmZDcyIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE1MzM0MDk4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTA3MzY1MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjA0fQ.maaHp9geD2ZjY3FQv_wsu3yyUowpzZU9pngI64aFGbY",
-        "token_access": "14e5ec5dee72f00b5b25fc005001997d49744c456f70d687b591b321b00c2a19",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDczNjM0MzA1Miwibmlja25hbWUiOiJkZ3BaU2tBVkRnSUpYVkJlIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImFjN2E5OWQ5NTZmNDM4MDY5ZDViZDdhNjgyNDhmZDcyIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE1MzM0MDk4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTA3MzY1MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTgzfQ.pNgpA_HUlwkzV7BXAvQM3lDw1LzkUG1-Op-DxShEzXY",
+        "token_access": "14e5ec5dee72f00b5b25fc005001997d2605c2003dfa1764572201c2c583fd03",
         "uid": "4515334098"
       }
     },
@@ -759,8 +759,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDczNjM0MzA0NSwibmlja25hbWUiOiJkZ3BaU2tBVkRnSUpYVkJSIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjA5MTgwOGQ3ZDA2MWFmYzZkNmNlMGE4MDIzM2Y0M2E2IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE1MzM0MTA0LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTA3MzY1MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjA2fQ.utxGqRaQh3PojM0CgzqvW7nQrfN8SBwVxdEWG1c5vxI",
-        "token_access": "72ff636dfa1cfb560903681c7186c490c5a18a501f3acba00f7279b299d3c49b",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDczNjM0MzA0NSwibmlja25hbWUiOiJkZ3BaU2tBVkRnSUpYVkJSIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjA5MTgwOGQ3ZDA2MWFmYzZkNmNlMGE4MDIzM2Y0M2E2IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE1MzM0MTA0LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTA3MzY1MCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTg1fQ.tYYCencsFytFlhmraLTeCt2XUlECtpfsrGKO5lO79K4",
+        "token_access": "72ff636dfa1cfb560903681c7186c490bc4999b4b2b19fb1224bd0c268e05ed5",
         "uid": "4515334104"
       }
     },
@@ -771,8 +771,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDczNjE5NDA2OCwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkJRIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImVkZTQ0ZDIyMjg2MTFkYzJkMmMzNTNlYmFjNjkxNDZjIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE1Mjg1NDI2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTA3MjgzOCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjA4fQ.2Uz0Xf9x903HRTDU6pb-e6ENAH2JjJhO3thOHk74hkE",
-        "token_access": "77dbebbe1484ee2df7c87cf05706de76e82ded0096e0d1db602b2df589fe7709",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDczNjE5NDA2OCwibmlja25hbWUiOiJkZ2xhU2tBVkRnSUpYVkJRIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImVkZTQ0ZDIyMjg2MTFkYzJkMmMzNTNlYmFjNjkxNDZjIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTE1Mjg1NDI2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MTA3MjgzOCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTg3fQ.VDzXSViOv6U1CZ4vANOnyESFvQlMF2UM3rxGLqB5-dc",
+        "token_access": "77dbebbe1484ee2df7c87cf05706de769c97dab98880108b9f6671fc96effb6e",
         "uid": "4515285426"
       }
     },
@@ -783,8 +783,8 @@
         "server": "IND",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDExNTU5NzIyNywibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFoU1ZZRyIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjdhNmFmMTY2N2JjOWM3NTgwNzkzYzg2NGZhM2UxY2I4IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzQwNjA2MTgwLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTcwNzIwMSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjEwfQ.o4u8utqR12Q-6tXFE6y6K9Ozp1Ao-HS29MVj_IkyGtY",
-        "token_access": "b1c7c996e40c2ba73d3980e5426349d5c3c647a4a7fcccca5f1c73b56e058629",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDExNTU5NzIyNywibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFoU1ZZRyIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjdhNmFmMTY2N2JjOWM3NTgwNzkzYzg2NGZhM2UxY2I4IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzQwNjA2MTgwLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTcwNzIwMSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTg5fQ.svHWhHPmWDU3KLEZ6yHE2TP8v61iGOHj0QQtU9j31-I",
+        "token_access": "b1c7c996e40c2ba73d3980e5426349d5057971ad7d7c6fe3eaaac7d2ac87062f",
         "uid": "4340606180"
       }
     },
@@ -795,8 +795,8 @@
         "server": "IND",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDEyMzEwNzU0NSwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFoU1ZjRyIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjM0NzBhOWY3ZTg5NTAxMWYxN2I0YzExYWJmMmI0OTNiIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzQyMDYzNDkyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTc4MjkwNCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjEyfQ.BYYPVek2_5_BvzIHes7gmO17o7jbAxUtq-k5SdQ8TT8",
-        "token_access": "c5d817da367c25e1edd6b7845189a81682158de2586dd9bbf11b5d3d017a1b54",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDEyMzEwNzU0NSwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFoU1ZjRyIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjM0NzBhOWY3ZTg5NTAxMWYxN2I0YzExYWJmMmI0OTNiIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzQyMDYzNDkyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTc4MjkwNCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTkxfQ.wJO0QdJobSiLwWu8aTz3WiRmfKzXab5mBQJyMtrkhOI",
+        "token_access": "c5d817da367c25e1edd6b7845189a816278e0ff029d1dcf29bc38216d9c4b46e",
         "uid": "4342063492"
       }
     },
@@ -807,8 +807,8 @@
         "server": "IND",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDEyMzE2Njc3Mywibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFoU1ZBRyIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6Ijg1Y2MxZmIzZDgwNmE1ZDk1ZmM4NWE5NTAxN2E0OGU1IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzQyMDc1MzgyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTc4MzUxOCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjE0fQ.TxkcAF272DugO66DfoN_Xud3cNF5L8Dkw9QmGXt8KFQ",
-        "token_access": "2d64d67947a5642d47cecd87b0cfa5bd0b61934032ea93d0287efd75a37bc2c9",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDEyMzE2Njc3Mywibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFoU1ZBRyIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6Ijg1Y2MxZmIzZDgwNmE1ZDk1ZmM4NWE5NTAxN2E0OGU1IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzQyMDc1MzgyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTc4MzUxOCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTkzfQ.RoQhboZxPrMkDe5SGnGGrckeUcCdgAnyj1besy3CoKE",
+        "token_access": "2d64d67947a5642d47cecd87b0cfa5bd1375c4bfaad4c5dc702995c3f907310d",
         "uid": "4342075382"
       }
     },
@@ -819,8 +819,8 @@
         "server": "IND",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDEyMzI0MTI5Nywibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFoU1ZVRyIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjI3NzdmZjE0NjY5N2NjOWZiMmY0NDJiZjRlNzczZDI2IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzQyMDkwNDk2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTc4NDI4MiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjE2fQ.Mac1kRxsuJawJNSpYY6E4389O_Le-pp2iLfAm5e-67s",
-        "token_access": "86df0f774467513dee2fede308aadfbf4736396115c503253c88423c281b242b",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDEyMzI0MTI5Nywibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFoU1ZVRyIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjI3NzdmZjE0NjY5N2NjOWZiMmY0NDJiZjRlNzczZDI2IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0MzQyMDkwNDk2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2NTc4NDI4MiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTk1fQ.qKioJ9zVDNyByNlzOoG9NYqC1OVE1egIWIW4voVsrcU",
+        "token_access": "86df0f774467513dee2fede308aadfbf227576655d5c88a51809408b3d5d7f19",
         "uid": "4342090496"
       }
     },
@@ -831,8 +831,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE0OTM5OTA5Miwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUNIME9EenN0UG5qb0QrMklLN3NBPT0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiYWIzYTdmODMyMTRkY2M4ZDZiZDc1ZjIwNzkyNTU5MzUiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDczOTg2MjYsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDU1NDkzLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDUyMTh9.RJLH31IqqZmUQIpUiyHII5INKbxhjY7PRusE4unCC2k",
-        "token_access": "1a8c579eef3c771699a15687ac6ada5c0e44a75ed18fe232152cca64f15d04f3",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE0OTM5OTA5Miwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUNIME9EenN0UG5qb0QrMklLN3NBPT0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiYWIzYTdmODMyMTRkY2M4ZDZiZDc1ZjIwNzkyNTU5MzUiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDczOTg2MjYsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDU1NDkzLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDg1OTZ9.I0uFZzLeAZyWflbf9JWmcIYUMnj9PA9_DlRYT8l_w2s",
+        "token_access": "1a8c579eef3c771699a15687ac6ada5c9fde2960fe118d603bd8c934b393fc07",
         "uid": "4347398626"
       }
     },
@@ -843,8 +843,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDU0MzU0NTUzOCwibmlja25hbWUiOiJkZ2xhU2tBVkxnSUpYUlpJIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjgyOTU1N2ZhM2VkZDU1YTY3Yjg4OTFiNjI4ZTRkNGI1IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDM4OTk4ODUxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2OTM4MTU3NSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjIwfQ.xveSTSp80613TSZuGPRBc5atUsfIwxkkn_FyU9sd6EY",
-        "token_access": "b35461540d9a96834a6389a767e4f620944187b247269451db181ca93592f98e",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDU0MzU0NTUzOCwibmlja25hbWUiOiJkZ2xhU2tBVkxnSUpYUlpJIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjgyOTU1N2ZhM2VkZDU1YTY3Yjg4OTFiNjI4ZTRkNGI1IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDM4OTk4ODUxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2OTM4MTU3NSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NTk4fQ.xz1WTLSOMu-PaHyowABSs3chSnts7GEN19cwdwzLvbo",
+        "token_access": "b35461540d9a96834a6389a767e4f620e7d1ee192a412bff4fbf205394a99e25",
         "uid": "4438998851"
       }
     },
@@ -855,8 +855,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE1MDU2NTY0Miwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVrUDBiTGkiLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiOTlmOTU5YTZmYzFlYjY4M2I1YjA2NDMyN2VmZTgwMjIiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDc2MzEwNTAsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDY0MDQyLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDUyMjJ9.vDLy61EwcKfRViI43ZTJoBswqnUNnuTObOsy8nJQ070",
-        "token_access": "f38198d690efa39e4cdde193ef261fa4c1b4999888cdb3c9be57e1d449d736b0",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE1MDU2NTY0Miwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVrUDBiTGkiLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiOTlmOTU5YTZmYzFlYjY4M2I1YjA2NDMyN2VmZTgwMjIiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDc2MzEwNTAsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDY0MDQyLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDg2MDB9.F6AzPWhc3SV9V_7vsHGYg58on1Ig0XsDaEGVyxMKwcA",
+        "token_access": "f38198d690efa39e4cdde193ef261fa4c54a3e2ddfa53345edd0dc855523bbc3",
         "uid": "4347631050"
       }
     },
@@ -865,8 +865,8 @@
       "status": "success",
       "data": {
         "uid": "4399560377",
-        "token": "fast_token_4399560377_1781876423",
-        "status": "fallback"
+        "token": "gen_4399560377_1781879805",
+        "status": "generated"
       }
     },
     {
@@ -876,8 +876,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE0OTk2MTcyMSwibmlja25hbWUiOiIwTkdMMlkySGd0ZlgyZERmaGRDSWF0RFN2cWpraE5XM1RFQT0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiMTI0OTQ0YjUzNmYzMzlmNzBmZDEyY2JjZDUyNmZjNjEiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDc1MTIzODEsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDU5OTQ2LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDUyMjV9.YVb40AiFjG4TMPGorHE3SpvRIY7vRn22QrUam8ZLkVg",
-        "token_access": "be0b5a807d94666cf38b55c32005961585d29b3c2b4bafd97f89f59dd4207e5b",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE0OTk2MTcyMSwibmlja25hbWUiOiIwTkdMMlkySGd0ZlgyZERmaGRDSWF0RFN2cWpraE5XM1RFQT0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiMTI0OTQ0YjUzNmYzMzlmNzBmZDEyY2JjZDUyNmZjNjEiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDc1MTIzODEsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDU5OTQ2LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDg2MDZ9.rkV7bgjnqFvUt3WN9AePndGymcM7R1wGUd7hxa_lUCM",
+        "token_access": "be0b5a807d94666cf38b55c320059615a8c47e4695be17c0d4f88d47e40443d6",
         "uid": "4347512381"
       }
     },
@@ -888,8 +888,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE0OTM5NzA0NCwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVrSTBiTGkiLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiY2YyYTVkOTUzZjBkZWFlYWY2YjVhMzQ5ZGMwNGNmZTUiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDczOTg1ODUsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDU1NDc1LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDUyMjd9.K0BHBXfPfKfT8e9g9plNA5JOFDflMjvc-47getXCS58",
-        "token_access": "01d6b84b057e63058867ebc1131f413e69034b52a133d1292b4b2e5c790ee884",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE0OTM5NzA0NCwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVrSTBiTGkiLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiY2YyYTVkOTUzZjBkZWFlYWY2YjVhMzQ5ZGMwNGNmZTUiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDczOTg1ODUsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDU1NDc1LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDg2MDh9.AoGWqpKdU76Bzz9bAWRd2cVARoL5GgMopJc4TQLhkz0",
+        "token_access": "01d6b84b057e63058867ebc1131f413edd5c82aa3394bfa13d9495b133216a89",
         "uid": "4347398585"
       }
     },
@@ -900,8 +900,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQwMzgxNDc4Niwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVrSUF3QW4ydUhnIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImMwZjQ3MGMwMzgwZjlkZTIzODg3OGViOTBkMWJlNmQ2IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0Mzk5NTYxNzc4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODI1NjQxNiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjI5fQ.5--DHQXZ5vv9IDzfucE72wc06oLEEVx6ovQ_sFd47Ys",
-        "token_access": "c3a586a1beba493972e652407ebbf7c3b400aa8b69d4848358888fd948cfc485",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQwMzgxNDc4Niwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVrSUF3QW4ydUhnIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImMwZjQ3MGMwMzgwZjlkZTIzODg3OGViOTBkMWJlNmQ2IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0Mzk5NTYxNzc4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODI1NjQxNiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjEwfQ.eWo0JRK7Eq7bqB9GWCWaIIDvcz3-XfQCoUT3SVDMmEI",
+        "token_access": "c3a586a1beba493972e652407ebbf7c3ee898bad5b4541821f80c1df6c70b78a",
         "uid": "4399561778"
       }
     },
@@ -912,8 +912,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ0MjU0MjM5NCwibmlja25hbWUiOiJjeUVZZjNWM01UcFBGVlJUIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjUzOTA1OTZlODJjOTBjOWE5NjU3NWFhMGFkY2Y1NWI4IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDA4MjU3NDczLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODU2MjA0OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjMxfQ.UQmxUWQmdnbPrm1JLOY18A4eZDJWkJ1jq0PufH5-lto",
-        "token_access": "f26bb21728281850e51aa029ab29d556ff69aa62dd7d9819175679040599f9e7",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ0MjU0MjM5NCwibmlja25hbWUiOiJjeUVZZjNWM01UcFBGVlJUIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjUzOTA1OTZlODJjOTBjOWE5NjU3NWFhMGFkY2Y1NWI4IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDA4MjU3NDczLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODU2MjA0OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjEyfQ.XMf4Q2c47wrgosaYRBIV2670lJreteSqieZ8kj_DpNU",
+        "token_access": "f26bb21728281850e51aa029ab29d55650472298b3405624ff63103af2b97e12",
         "uid": "4408257473"
       }
     },
@@ -924,8 +924,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE5MzI5NjgwOCwibmlja25hbWUiOiJkQ2dZZW5ac1RsST0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiZTkyMTk3Njc1OWEzYmEwNzBkZDRjOWY5NDViOTRiNTkiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNTcyMDQxNzAsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2NDI5MDM2LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDUyMzN9.Kv8WOjY7a0YiSvXcxin5mZo6FeGbqVQkt49UbNoKe5w",
-        "token_access": "f025b168bfd5ebea6d58848fa1706d350088e13e68f40ae3e80b575024f796e0",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE5MzI5NjgwOCwibmlja25hbWUiOiJkQ2dZZW5ac1RsST0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiZTkyMTk3Njc1OWEzYmEwNzBkZDRjOWY5NDViOTRiNTkiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNTcyMDQxNzAsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2NDI5MDM2LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDg2MTR9.plcaDhnc9tEEKnB8DwSal-J4sQb9Yf8f_VXss39B7_A",
+        "token_access": "f025b168bfd5ebea6d58848fa1706d35b0deb54e3372fb9447c4b5b52ffe1c31",
         "uid": "4357204170"
       }
     },
@@ -936,8 +936,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1NjIxOTA2NCwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVlU9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjM5NmU5NTI5YThkOGY1NGZkMDM4MWQxMWIyYzBkNGViIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExMjQ4MjcyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY1ODQzNiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjM1fQ.x-VPc8uTRe7sJDx-wuYZhMXtGRI4Lv--hDFeyGfOd-k",
-        "token_access": "8124c99d0b5389dced5ad05c46b133314762841cea2c2653553594dcb29cd954",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1NjIxOTA2NCwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVlU9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjM5NmU5NTI5YThkOGY1NGZkMDM4MWQxMWIyYzBkNGViIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExMjQ4MjcyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY1ODQzNiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjE2fQ.1gl_Cr_lrEJRxBhFVpiGcrFvRxIlhILClNk_LINfCRI",
+        "token_access": "8124c99d0b5389dced5ad05c46b13331f4aaa64f0f7c2de1bc06ab732e6b5a64",
         "uid": "4411248272"
       }
     },
@@ -948,8 +948,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1NjM1NzAzNSwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVlk9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjJmNTY1MDgwYjM3Yjc3ODFkMGFhZjk0NmRkZDJmODFiIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExMjc2MzU1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY1OTE1OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjM3fQ.nN5dEdeoxSGsjH0CxmzqrdbZhzWNcET-HtximVqnaG8",
-        "token_access": "813d83d40240f32b4176a9c1cec8c337c50ba7b0dc8e5463f4d39eb0b1828817",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1NjM1NzAzNSwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVlk9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjJmNTY1MDgwYjM3Yjc3ODFkMGFhZjk0NmRkZDJmODFiIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExMjc2MzU1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY1OTE1OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjE4fQ.6SiYiFIXrgqvUQFPpqzYpu0R6pApG4hb28Jj7D-rHkQ",
+        "token_access": "813d83d40240f32b4176a9c1cec8c3373b6756e643f0884317c2cb7df31474d4",
         "uid": "4411276355"
       }
     },
@@ -960,8 +960,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1ODQyNzk5Mywibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVk09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjliYjRhZjllYzAyNDk2ODIxYzBkYTRmZTJmMTBkYjljIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExNzIwNjU2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY3MjUyNCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjM5fQ.GuBM6-4m4L5y_0GV4Ro4Soy3TGPR0VL8WkL5ILuPuzA",
-        "token_access": "0682c59fb3dc1a124e6a8ebf95df819339369dfcc54167582359d151e7ecb0a9",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1ODQyNzk5Mywibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVk09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjliYjRhZjllYzAyNDk2ODIxYzBkYTRmZTJmMTBkYjljIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExNzIwNjU2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY3MjUyNCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjIwfQ.9cHFBkZpuL8XoHCkQqmY5A33qo9XWzEHHkMkO4mnqMc",
+        "token_access": "0682c59fb3dc1a124e6a8ebf95df8193c2cc7c50485f897939a329f2b5a43c85",
         "uid": "4411720656"
       }
     },
@@ -972,8 +972,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1NjM2MDMwMywibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVmM9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjcwZTc2Y2M5M2U2MDQ3N2QxZDc3ZmQzNTBhNDYxYzg3IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExMjc2MTgxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY1OTE3NSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjQxfQ.lzZb6jjnlKl5RGp4GLTB9-ymruBtqIKezOxFMS9XeKw",
-        "token_access": "378b74aa67a2389c734e76832cc68a5b39f7b69dd95119f45f9c0263d833f4b0",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1NjM2MDMwMywibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVmM9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjcwZTc2Y2M5M2U2MDQ3N2QxZDc3ZmQzNTBhNDYxYzg3IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExMjc2MTgxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY1OTE3NSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjIyfQ._k-xbsBk_F3EHKVvQU7ln5wFfiqF0vUtHSvrQmbTBAs",
+        "token_access": "378b74aa67a2389c734e76832cc68a5b9edbbf43d7636cc96315527046c2a103",
         "uid": "4411276181"
       }
     },
@@ -982,8 +982,8 @@
       "status": "success",
       "data": {
         "uid": "4408269846",
-        "token": "fast_token_4408269846_1781876442",
-        "status": "fallback"
+        "token": "gen_4408269846_1781879827",
+        "status": "generated"
       }
     },
     {
@@ -991,8 +991,8 @@
       "status": "success",
       "data": {
         "uid": "4401135355",
-        "token": "fast_token_4401135355_1781876443",
-        "status": "fallback"
+        "token": "gen_4401135355_1781879831",
+        "status": "generated"
       }
     },
     {
@@ -1000,8 +1000,8 @@
       "status": "success",
       "data": {
         "uid": "4439062898",
-        "token": "fast_token_4439062898_1781876444",
-        "status": "fallback"
+        "token": "gen_4439062898_1781879835",
+        "status": "generated"
       }
     },
     {
@@ -1009,8 +1009,8 @@
       "status": "success",
       "data": {
         "uid": "4439062767",
-        "token": "fast_token_4439062767_1781876446",
-        "status": "fallback"
+        "token": "gen_4439062767_1781879840",
+        "status": "generated"
       }
     },
     {
@@ -1018,8 +1018,8 @@
       "status": "success",
       "data": {
         "uid": "4439065921",
-        "token": "fast_token_4439065921_1781876447",
-        "status": "fallback"
+        "token": "gen_4439065921_1781879844",
+        "status": "generated"
       }
     },
     {
@@ -1027,8 +1027,8 @@
       "status": "success",
       "data": {
         "uid": "4401141548",
-        "token": "fast_token_4401141548_1781876448",
-        "status": "fallback"
+        "token": "gen_4401141548_1781879849",
+        "status": "generated"
       }
     },
     {
@@ -1038,8 +1038,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNTM0NzgxNDYyOSwibmlja25hbWUiOiJmeXBVV2x4ZUJRZGJDVkFDIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImFiZWZmZDkxNGRmMWRhMTIwY2UzZGMzMTVlMTAyMDBiIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTA2NjEyMzI5LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3NTc2NTg4MSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjUwfQ.nykU_ApPK8AmpC-cSl3BHPeGMTr8HCobzn0UKc4FOag",
-        "token_access": "a3086d0eef66a0af06e3e2f62eed10f382758ab31a2a59d50521ddc7964e3283",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNTM0NzgxNDYyOSwibmlja25hbWUiOiJmeXBVV2x4ZUJRZGJDVkFDIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImFiZWZmZDkxNGRmMWRhMTIwY2UzZGMzMTVlMTAyMDBiIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NTA2NjEyMzI5LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3NTc2NTg4MSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjUwfQ.JeTeMdhQYyaI07iKmySh92qgZvn_bq08rDa0tke2Mzo",
+        "token_access": "a3086d0eef66a0af06e3e2f62eed10f3b6092bfa799c677f9d985585bef364d1",
         "uid": "4506612329"
       }
     },
@@ -1048,8 +1048,8 @@
       "status": "success",
       "data": {
         "uid": "4401137317",
-        "token": "fast_token_4401137317_1781876451",
-        "status": "fallback"
+        "token": "gen_4401137317_1781879855",
+        "status": "generated"
       }
     },
     {
@@ -1059,8 +1059,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQxMTU2NzcwMywibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVsMWYzZFYydUhnIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImE5ZGY4YTE3YWM5MGQzNDEyNjk4N2Y0ZDQ0OTg4MzkxIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDAxMTM4NDk4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODMyODUzOSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjUzfQ.SgE3QXI91bY4Ps_DPgpfgR-aBNHghRlcTBOn4OULMBM",
-        "token_access": "af268bad0d58de1724277485a1f3affa330f66c4a656d1f4be3867c03adf43bc",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQxMTU2NzcwMywibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVsMWYzZFYydUhnIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImE5ZGY4YTE3YWM5MGQzNDEyNjk4N2Y0ZDQ0OTg4MzkxIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDAxMTM4NDk4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODMyODUzOSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjU3fQ.3Kmces61VKzuItBwHzWpWNRxe_9TkwWZmkZuAiST-Z8",
+        "token_access": "af268bad0d58de1724277485a1f3affa5b4f9a504346ca2d579b5e5c86f29760",
         "uid": "4401138498"
       }
     },
@@ -1071,8 +1071,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDY4MzM3MzI0Miwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVlZlIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjY4Zjk2NjBjNjkwNzhiNGFiZDUwNTFhMmEyNDYwYjhjIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDk3MjYyNTk2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDYwNTQ1NCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjU1fQ.zIo8B3sCRcZ9LFwnmupngw4zsL6URn74JfGGLXMOrWc",
-        "token_access": "b4f3e342b0413caf39d0d4adcc6c144d016af3b4382a4207a8119555e7f92ab0",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDY4MzM3MzI0Miwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVlZlIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjY4Zjk2NjBjNjkwNzhiNGFiZDUwNTFhMmEyNDYwYjhjIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDk3MjYyNTk2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDYwNTQ1NCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjU5fQ.RJvTyEWYs8Y1ZYonmhlFISN-5mmVbzlAYqSDDk1sJkE",
+        "token_access": "b4f3e342b0413caf39d0d4adcc6c144d4b98a1f5ce8b5b9f57109e2f08d04a8a",
         "uid": "4497262596"
       }
     },
@@ -1083,8 +1083,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDU0ODk2NTIyNiwibmlja25hbWUiOiJkZ2xhU2tBVkxnSUpYVlpmIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjZkOGVjM2EzNzdkYWEzZjcxYTE3ZmRlZWI0YjE2NTk0IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDQxMDcwNjcyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2OTQyNzA5NCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjU3fQ.KAaGvA2rtTl_MaMSX9oKBDpsSIhSy8Yl3rmua4N8AoM",
-        "token_access": "328a5529bfb878e8c12a4992caa2ec763fd7d095de1567694caf3023cea14bcf",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDU0ODk2NTIyNiwibmlja25hbWUiOiJkZ2xhU2tBVkxnSUpYVlpmIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjZkOGVjM2EzNzdkYWEzZjcxYTE3ZmRlZWI0YjE2NTk0IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDQxMDcwNjcyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2OTQyNzA5NCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjYwfQ.7tmNRdpcYGTu_AtsmASUrB3RzoMptITS8UIa3LcDx64",
+        "token_access": "328a5529bfb878e8c12a4992caa2ec76d01a3debce7371d23f5f4ca18a22fcbd",
         "uid": "4441070672"
       }
     },
@@ -1095,8 +1095,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDY4MzQxNDcwMywibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVkZSIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImM4ODAxMTUyNjM1YjVjY2UyNjcxNDlmMjJjNjUxMWZiIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDk3MjcwNzQ3LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDYwNTg2OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjU5fQ.Hgj-OQ7R3gLIRuxOblXktdB2JgWAMBKCEqk_2PZGi7I",
-        "token_access": "c0aec618fb558a25388c6de6f3f3d321955a85e81e219e1909cc1266324c4354",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDY4MzQxNDcwMywibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVkZSIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImM4ODAxMTUyNjM1YjVjY2UyNjcxNDlmMjJjNjUxMWZiIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDk3MjcwNzQ3LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDYwNTg2OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjYyfQ.0Dh5pf-Stdnp7U1hA9lWmpzdgapZS4GO-aft6c_FJpo",
+        "token_access": "c0aec618fb558a25388c6de6f3f3d321b88e5dc285ad4c2f349af4f78f1aaf5e",
         "uid": "4497270747"
       }
     },
@@ -1107,8 +1107,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDY4MzM1NzA5Miwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVkZUIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImRmZGNiYmE0MmEyNGRlYzcwNDI3ODcxZTc3ZDY1MzQxIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDk3MjU2MDYyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDYwNTMwNiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjYxfQ._xIHCTtoIPZ_bxY-qzt5CPXN1hE33N0FufrY7L4Uv5s",
-        "token_access": "e5342076a84d233a42104f9fd86fae502f9162088f516a6bd661bd1c6253d71f",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDY4MzM1NzA5Miwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVkZUIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImRmZGNiYmE0MmEyNGRlYzcwNDI3ODcxZTc3ZDY1MzQxIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDk3MjU2MDYyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDYwNTMwNiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjY0fQ.eXvVdUzXk0j96jf7QNn5Cj2axS-LUMj0Rjx4ErG7jIo",
+        "token_access": "e5342076a84d233a42104f9fd86fae50e727e8dc8d8063dc63a2d63edc7d55fb",
         "uid": "4497256062"
       }
     },
@@ -1119,8 +1119,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDY3ODE4Njk2OCwibmlja25hbWUiOiJWaEJjVkYwVkJBOE5TaDFDIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImZiNWRjY2IzNjdhNzc0NjhmYTQ1OTU3ZWQ5YTU1NmY5IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDk0ODAxMjg0LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDU1NDg5NCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjYzfQ.YGK_gTTmWMrYwqfXI65SMAEWRb4pBy42Rp4nBaRbC6A",
-        "token_access": "45fd022c86c629229aeb704f34ca8f432b3cf3b9be016c8161ca2f7f4fda7886",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDY3ODE4Njk2OCwibmlja25hbWUiOiJWaEJjVkYwVkJBOE5TaDFDIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImZiNWRjY2IzNjdhNzc0NjhmYTQ1OTU3ZWQ5YTU1NmY5IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDk0ODAxMjg0LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc3MDU1NDg5NCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjY2fQ.s8MNCyvSQlPmBviKYh5ZCJzWEEYW7QP7ThKrKFQzsYk",
+        "token_access": "45fd022c86c629229aeb704f34ca8f4386406502fa841e91f0f5561471d43183",
         "uid": "4494801284"
       }
     },
@@ -1131,8 +1131,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDU0ODk2MDQyNCwibmlja25hbWUiOiJkZ2xhU2tBVkxnSUpYVlpWIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImQ3ZDAxMmY1ZTE1MWZlYzg2YjBlOGRmNDhlYzUxZjI2IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDQxMDcwMTYxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2OTQyNzExMiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjY1fQ.SpGr6ADyJbbkilL_GmoCZsHK9GOTZmWU0JumMj-yLgU",
-        "token_access": "106532b19815a0e81a130d41f027291a6f6ae8d2b89a0f252e266003c5f560f7",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDU0ODk2MDQyNCwibmlja25hbWUiOiJkZ2xhU2tBVkxnSUpYVlpWIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImQ3ZDAxMmY1ZTE1MWZlYzg2YjBlOGRmNDhlYzUxZjI2IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDQxMDcwMTYxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2OTQyNzExMiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjY4fQ.BvQQk-P2wBB4bwvzt67oo2UKOPfneCbuZnnix8ckcYI",
+        "token_access": "106532b19815a0e81a130d41f027291acb9d4fb47adf2770ca5ddca3d36d6703",
         "uid": "4441070161"
       }
     },
@@ -1143,8 +1143,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDU0OTk3Njk3NSwibmlja25hbWUiOiJkZ2xhU2tBVkxnSUpYVkpSIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjFmZGMzNWMzMTNhYWYxMmU1ZjA0ODUxY2QzYTAyNDFlIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDQxNDIyOTE3LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2OTQzMzkyOSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjY3fQ.RG-_vDl2vJIpGLAYlAR988bsjAZuuUv95BTGrNrqdhs",
-        "token_access": "5f1cf89a8adc7196537faa24626ccc27235fe39e57bc223148bb94af843844f3",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDU0OTk3Njk3NSwibmlja25hbWUiOiJkZ2xhU2tBVkxnSUpYVkpSIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjFmZGMzNWMzMTNhYWYxMmU1ZjA0ODUxY2QzYTAyNDFlIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDQxNDIyOTE3LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2OTQzMzkyOSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjcwfQ.tYCaiAucaRHqL0iBX7YS9Iwkryl11GBO8lE3RLgMyfI",
+        "token_access": "5f1cf89a8adc7196537faa24626ccc27c6a66f4db3848a30b276f11c61d6aac1",
         "uid": "4441422917"
       }
     },
@@ -1156,7 +1156,7 @@
         "status": "N/A",
         "team": "aimguard",
         "token": "N/A",
-        "token_access": "e8b33707d3cbf9595c53e5b47b16448b04165f6a3305a84bc730c79f874186cc",
+        "token_access": "e8b33707d3cbf9595c53e5b47b16448b7a52665ef047e8a04947f5bb020fb9a8",
         "uid": "4441071311"
       }
     },
@@ -1167,8 +1167,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDU0MzU0NTUzOCwibmlja25hbWUiOiJkZ2xhU2tBVkxnSUpYUlpJIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjgyOTU1N2ZhM2VkZDU1YTY3Yjg4OTFiNjI4ZTRkNGI1IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDM4OTk4ODUxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2OTM4MTU3NSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjcxfQ.5lESgympz24qGYqK-o4EO_zxFEtdS59juXyYgnfZwUo",
-        "token_access": "b35461540d9a96834a6389a767e4f6205250305ac131ffbec7cdf3090997c2f5",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDU0MzU0NTUzOCwibmlja25hbWUiOiJkZ2xhU2tBVkxnSUpYUlpJIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjgyOTU1N2ZhM2VkZDU1YTY3Yjg4OTFiNjI4ZTRkNGI1IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDM4OTk4ODUxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2OTM4MTU3NSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4Njc0fQ.ayjx69gsoPpX0fhq_wE-_N5RFwWIIB1diL--pu3AQF8",
+        "token_access": "b35461540d9a96834a6389a767e4f620c840697f63c577144cd829a25e81c467",
         "uid": "4438998851"
       }
     },
@@ -1179,8 +1179,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE1MDU2NTY0Miwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVrUDBiTGkiLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiOTlmOTU5YTZmYzFlYjY4M2I1YjA2NDMyN2VmZTgwMjIiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDc2MzEwNTAsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDY0MDQyLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDUyNzN9.nxxW37nRSoRurKySjVMfeyvdonynj8zwkQBrAAI-FN8",
-        "token_access": "f38198d690efa39e4cdde193ef261fa46825e597723d882e488f0e4a31df4de5",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE1MDU2NTY0Miwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVrUDBiTGkiLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiOTlmOTU5YTZmYzFlYjY4M2I1YjA2NDMyN2VmZTgwMjIiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDc2MzEwNTAsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDY0MDQyLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDg2NzZ9.-BbSx3V41BdE33AwRdweRMUfTqXBQ-_O9wxEuGE7cvY",
+        "token_access": "f38198d690efa39e4cdde193ef261fa48fbc76a0485c5951d1b20a5ec175a7fe",
         "uid": "4347631050"
       }
     },
@@ -1189,8 +1189,8 @@
       "status": "success",
       "data": {
         "uid": "4399560377",
-        "token": "fast_token_4399560377_1781876475",
-        "status": "fallback"
+        "token": "gen_4399560377_1781879880",
+        "status": "generated"
       }
     },
     {
@@ -1200,8 +1200,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE0OTk2MTcyMSwibmlja25hbWUiOiIwTkdMMlkySGd0ZlgyZERmaGRDSWF0RFN2cWpraE5XM1RFQT0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiMTI0OTQ0YjUzNmYzMzlmNzBmZDEyY2JjZDUyNmZjNjEiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDc1MTIzODEsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDU5OTQ2LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDUyNzd9.9rYfNAGRShPGpjPEF-2i3BeKX_pxKKPZNVdaXunMDtU",
-        "token_access": "be0b5a807d94666cf38b55c3200596150c0c8ae1a9fb166a8e627f04fc7bdefe",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE0OTk2MTcyMSwibmlja25hbWUiOiIwTkdMMlkySGd0ZlgyZERmaGRDSWF0RFN2cWpraE5XM1RFQT0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiMTI0OTQ0YjUzNmYzMzlmNzBmZDEyY2JjZDUyNmZjNjEiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDc1MTIzODEsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDU5OTQ2LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDg2ODJ9.Nb3m2j-HOZ8KM4Xy-VfCK-cXNcvy6KtPwL7Ft5KtWnI",
+        "token_access": "be0b5a807d94666cf38b55c3200596157902aa48603c8f01a1f514746ed7654d",
         "uid": "4347512381"
       }
     },
@@ -1212,8 +1212,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE0OTM5NzA0NCwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVrSTBiTGkiLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiY2YyYTVkOTUzZjBkZWFlYWY2YjVhMzQ5ZGMwNGNmZTUiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDczOTg1ODUsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDU1NDc1LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDUyNzl9.ZIuBVhw2UBKi7d1Cn1sARQ7tkBTftAHXLHSyFYb4yzg",
-        "token_access": "01d6b84b057e63058867ebc1131f413ef14dd562140d9850489cc3670a42804e",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE0OTM5NzA0NCwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVrSTBiTGkiLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiY2YyYTVkOTUzZjBkZWFlYWY2YjVhMzQ5ZGMwNGNmZTUiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNDczOTg1ODUsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2MDU1NDc1LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDg2ODR9.MPUJLkm_sEJp9BZobVYeDJbKMpE7iO0urWPSgPckSmg",
+        "token_access": "01d6b84b057e63058867ebc1131f413e9a3ba97c9a3a9945ec649978c7bcd7c5",
         "uid": "4347398585"
       }
     },
@@ -1224,8 +1224,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQwMzgxNDc4Niwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVrSUF3QW4ydUhnIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImMwZjQ3MGMwMzgwZjlkZTIzODg3OGViOTBkMWJlNmQ2IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0Mzk5NTYxNzc4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODI1NjQxNiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjgxfQ.m5ARHTVUND_6-8LIuGynUR0_Qx6QfjQ17ONVlq3VTdo",
-        "token_access": "c3a586a1beba493972e652407ebbf7c3b828a096cc1ecd7b36f96237520232a4",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQwMzgxNDc4Niwibmlja25hbWUiOiIwT3FyOTRMUy85T0RsZUFrSUVrSUF3QW4ydUhnIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6ImMwZjQ3MGMwMzgwZjlkZTIzODg3OGViOTBkMWJlNmQ2IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0Mzk5NTYxNzc4LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODI1NjQxNiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4Njg2fQ.MSnrIb9Hz4md1XyaStTUo5L2liDpoUdPzGr3H3sX_VY",
+        "token_access": "c3a586a1beba493972e652407ebbf7c30ebbbef51075b4c8768df59e8b9e29f2",
         "uid": "4399561778"
       }
     },
@@ -1236,8 +1236,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ0MjU0MjM5NCwibmlja25hbWUiOiJjeUVZZjNWM01UcFBGVlJUIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjUzOTA1OTZlODJjOTBjOWE5NjU3NWFhMGFkY2Y1NWI4IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDA4MjU3NDczLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODU2MjA0OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjgzfQ.KoUkBm98MTnOiwmbq8VLr-Hxxgn14n6V8H_jIe5639s",
-        "token_access": "f26bb21728281850e51aa029ab29d5567c88be3ca35fb616093a14bb4651664c",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ0MjU0MjM5NCwibmlja25hbWUiOiJjeUVZZjNWM01UcFBGVlJUIiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjUzOTA1OTZlODJjOTBjOWE5NjU3NWFhMGFkY2Y1NWI4IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDA4MjU3NDczLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODU2MjA0OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4Njg4fQ.ysEThPruSfqUo8hiFRV26aeaHdBYJIf1ofUNTcofZiw",
+        "token_access": "f26bb21728281850e51aa029ab29d556936903e78392c334b2331dd2b7c44852",
         "uid": "4408257473"
       }
     },
@@ -1248,8 +1248,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE5MzI5NjgwOCwibmlja25hbWUiOiJkQ2dZZW5ac1RsST0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiZTkyMTk3Njc1OWEzYmEwNzBkZDRjOWY5NDViOTRiNTkiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNTcyMDQxNzAsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2NDI5MDM2LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDUyODV9.VxZ_5dMcLToh4JYD6zwNb4a0P3lkJpMuy81wKfXnqz0",
-        "token_access": "f025b168bfd5ebea6d58848fa1706d35025c3f8cffa472454190cde06924be63",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDE5MzI5NjgwOCwibmlja25hbWUiOiJkQ2dZZW5ac1RsST0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiZTkyMTk3Njc1OWEzYmEwNzBkZDRjOWY5NDViOTRiNTkiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTExLjIiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiVVMiLCJleHRlcm5hbF91aWQiOjQzNTcyMDQxNzAsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjo0LCJsb2NrX3JlZ2lvbl90aW1lIjoxNzY2NDI5MDM2LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjEsInJlbGVhc2VfY2hhbm5lbCI6IjNyZF9wYXJ0eSIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3ODE5MDg2OTB9.ouivZjNjO2RlyI7ihAX5hHsG6tml1TW-dGia3XUd5y4",
+        "token_access": "f025b168bfd5ebea6d58848fa1706d3520fef948dfd20202f190efb63668c5c9",
         "uid": "4357204170"
       }
     },
@@ -1260,8 +1260,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1NjIxOTA2NCwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVlU9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjM5NmU5NTI5YThkOGY1NGZkMDM4MWQxMWIyYzBkNGViIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExMjQ4MjcyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY1ODQzNiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1Mjg3fQ.KSc-9A_8Z6LL6CiDT6k3DJc5noq3WKkmYRrEoB08rNM",
-        "token_access": "8124c99d0b5389dced5ad05c46b1333177a22ae347076184809cfb85ffc6c64c",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1NjIxOTA2NCwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVlU9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjM5NmU5NTI5YThkOGY1NGZkMDM4MWQxMWIyYzBkNGViIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExMjQ4MjcyLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY1ODQzNiwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4NjkyfQ.4aKmu9mvRntJFibp3k5WU36mWHrvD2oVZFpDkcCQuT4",
+        "token_access": "8124c99d0b5389dced5ad05c46b13331d3da981b633b13219e11b3f6a3655839",
         "uid": "4411248272"
       }
     },
@@ -1272,8 +1272,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1NjM1NzAzNSwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVlk9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjJmNTY1MDgwYjM3Yjc3ODFkMGFhZjk0NmRkZDJmODFiIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExMjc2MzU1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY1OTE1OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1Mjg5fQ.UQnlBHbZJDI7KSix7eBzUZo3lXPF-uViLQVWEFGF_60",
-        "token_access": "813d83d40240f32b4176a9c1cec8c33719c6a21f462b28fbba00fd99c0576d9e",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1NjM1NzAzNSwibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVlk9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjJmNTY1MDgwYjM3Yjc3ODFkMGFhZjk0NmRkZDJmODFiIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExMjc2MzU1LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY1OTE1OSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4Njk0fQ.lRN1Z-kZvI5dmzP7MB586jHUEhAebM3-LcS1V4cLjKg",
+        "token_access": "813d83d40240f32b4176a9c1cec8c337fe3224dfe3e69b56db1f21e97d6a22b5",
         "uid": "4411276355"
       }
     },
@@ -1284,8 +1284,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1ODQyNzk5Mywibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVk09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjliYjRhZjllYzAyNDk2ODIxYzBkYTRmZTJmMTBkYjljIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExNzIwNjU2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY3MjUyNCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1MjkxfQ.zqNiq2U0jWnNI0HME4BV9UzKScb-7by78ps8sFtp_xw",
-        "token_access": "0682c59fb3dc1a124e6a8ebf95df819393402bce62f245eca8811091567a14bd",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1ODQyNzk5Mywibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVk09Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjliYjRhZjllYzAyNDk2ODIxYzBkYTRmZTJmMTBkYjljIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExNzIwNjU2LCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY3MjUyNCwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4Njk2fQ.q483ozsjhv-2I1bQ5VpYzVMMIJz2dxj1TANRI7e3dyo",
+        "token_access": "0682c59fb3dc1a124e6a8ebf95df81938ba9389dea072711439938a767240ba6",
         "uid": "4411720656"
       }
     },
@@ -1296,8 +1296,8 @@
         "server": "BD",
         "status": "live",
         "team": "aimguard",
-        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1NjM2MDMwMywibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVmM9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjcwZTc2Y2M5M2U2MDQ3N2QxZDc3ZmQzNTBhNDYxYzg3IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExMjc2MTgxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY1OTE3NSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA1Mjk0fQ.-wyKiWDwnY3qQoVJIeLUYBPzB-Dul2SEeXDI6YZsMrE",
-        "token_access": "378b74aa67a2389c734e76832cc68a5b333a3334b7770bf87efe10c058c6d594",
+        "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxNDQ1NjM2MDMwMywibmlja25hbWUiOiJWZ2xhU2tBVkRnSUpYVmM9Iiwibm90aV9yZWdpb24iOiJCRCIsImxvY2tfcmVnaW9uIjoiQkQiLCJleHRlcm5hbF9pZCI6IjcwZTc2Y2M5M2U2MDQ3N2QxZDc3ZmQzNTBhNDYxYzg3IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjExMS4yIiwiZW11bGF0b3Jfc2NvcmUiOjEwMCwiaXNfZW11bGF0b3IiOnRydWUsImNvdW50cnlfY29kZSI6IlVTIiwiZXh0ZXJuYWxfdWlkIjo0NDExMjc2MTgxLCJyZWdfYXZhdGFyIjoxMDIwMDAwMDcsInNvdXJjZSI6NCwibG9ja19yZWdpb25fdGltZSI6MTc2ODY1OTE3NSwiY2xpZW50X3R5cGUiOjIsInNpZ25hdHVyZV9tZDUiOiIiLCJ1c2luZ192ZXJzaW9uIjoxLCJyZWxlYXNlX2NoYW5uZWwiOiIzcmRfcGFydHkiLCJyZWxlYXNlX3ZlcnNpb24iOiJPQjUzIiwiZXhwIjoxNzgxOTA4Njk4fQ.c6WiVPo1-AVKY2c6Kplg40cNZFHJYhoA80XzhASxalc",
+        "token_access": "378b74aa67a2389c734e76832cc68a5b1f2dffdcc55b42e999b7525ef3f1f2ed",
         "uid": "4411276181"
       }
     },
@@ -1306,8 +1306,8 @@
       "status": "success",
       "data": {
         "uid": "4408269846",
-        "token": "fast_token_4408269846_1781876495",
-        "status": "fallback"
+        "token": "gen_4408269846_1781879903",
+        "status": "generated"
       }
     },
     {
@@ -1315,8 +1315,8 @@
       "status": "success",
       "data": {
         "uid": "4401135355",
-        "token": "fast_token_4401135355_1781876504",
-        "status": "fallback"
+        "token": "gen_4401135355_1781879907",
+        "status": "generated"
       }
     },
     {
@@ -1324,8 +1324,8 @@
       "status": "success",
       "data": {
         "uid": "4439062898",
-        "token": "fast_token_4439062898_1781876505",
-        "status": "fallback"
+        "token": "gen_4439062898_1781879912",
+        "status": "generated"
       }
     },
     {
@@ -1333,8 +1333,8 @@
       "status": "success",
       "data": {
         "uid": "4439062767",
-        "token": "fast_token_4439062767_1781876506",
-        "status": "fallback"
+        "token": "gen_4439062767_1781879916",
+        "status": "generated"
       }
     },
     {
@@ -1342,8 +1342,8 @@
       "status": "success",
       "data": {
         "uid": "4439065921",
-        "token": "fast_token_4439065921_1781876507",
-        "status": "fallback"
+        "token": "gen_4439065921_1781879921",
+        "status": "generated"
       }
     }
   ]
